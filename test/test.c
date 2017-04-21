@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-#define	TEST(x) strlen(x),"江辉"\
+#define	TEST(x) strlen(x),"额，"\
        	"傻逼\n"
 
 int main()
